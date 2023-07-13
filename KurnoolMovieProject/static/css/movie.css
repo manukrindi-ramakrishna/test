@@ -1,0 +1,26 @@
+.container .jumbotron{
+background:orange;
+margin-top:200px;
+color:red;
+}
+body{
+background:url("https://cdn.pixabay.com/photo/2022/05/21/21/47/river-7212351_1280.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+color:red;
+}
+table,thead,th,tr,td{
+background:yellow;
+color:red;
+font-size:30px;
+border:2px solid white;
+margin:auto;
+margin-bottom:10px
+
+}
+thead,th{
+border:2px solid red;
+background:white;
+color:blue
+
+}
